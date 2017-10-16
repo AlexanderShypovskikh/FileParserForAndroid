@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Properties parser
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: com.example.ini.parser.Properties
+
